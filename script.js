@@ -80,7 +80,3 @@ let list = ()=>{
             this.classList.toggle('showAuthor');
         }))
     };
-
-    let toggleAuthor = function () {
-        
-    }
